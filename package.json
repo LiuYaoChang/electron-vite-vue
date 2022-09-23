@@ -36,5 +36,8 @@
     "vite",
     "vue3",
     "vue"
-  ]
+  ],
+  "dependencies": {
+    "element-plus": "^2.2.17"
+  }
 }
